@@ -1,0 +1,10 @@
+CMD COMMANDS:
+Video 6:
+
+python
+from flask_bcrypt import Bcrypt
+bcrypt=Bcrypt()
+bcrypt.generate_password_hash('anant').decode('utf-8')
+
+For video 11:
+https://www.youtube.com/watch?v=IolxqkL7cD8
